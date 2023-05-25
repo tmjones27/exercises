@@ -1,0 +1,5 @@
+Employee Name: Tiani
+ID Number: 203302
+Pay Rate: 44
+Hours Worked: 44
+Total Hours: 
