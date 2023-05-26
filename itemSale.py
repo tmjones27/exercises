@@ -1,4 +1,4 @@
-# program determines prices for items at 10% off
+# program determines price for items at 10% off
 # #############################
 print('Sales Calculator\n')
 
