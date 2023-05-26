@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿//Create an order form that allows bags to be purchased. Display is a Windows dialog msg box showing the total, selection, quantity, and shipping charge. 
+=======
+//Create an order form that allows bags to be purchased. Display is a Windows dialog msg box showing the total, selection, quantity, and shipping charge. 
+>>>>>>> 8f1111f933c44b61e3b24f90f763aa89832f2ccb
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
