@@ -1,5 +1,3 @@
-
-//Tiani Jones, 15 DEC 2022
 "use strict";
 var $ = function (id) {
     return document.getElementById(id);

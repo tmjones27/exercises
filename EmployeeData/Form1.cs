@@ -1,7 +1,6 @@
-﻿/*Tiani Jones BIS 345
- * Write a graphical user application that accepts employee data to include employee name, number, pay rate and number of hours worked.
- * The total amount of pay should be calculated and your application should allow the user to browse to save and load the file.
- * */
+﻿/* program should accept input data such as: employee name, number, pay rate and number of hours worked.
+ * calculate the values and allow the user to save or load the file.
+ */
 
 using System;
 using System.IO;

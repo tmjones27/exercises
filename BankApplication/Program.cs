@@ -1,5 +1,4 @@
-﻿//Tiani  -- BIS 345
-//Create a class for a banking account. Define subclasses for checkings and savings.
+﻿//Create a class for a banking account. Define subclasses for checkings and savings.
 
 using System;
 

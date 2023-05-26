@@ -1,6 +1,4 @@
-﻿//Tiani  -- BIS 345
-
-namespace BankApplication
+﻿namespace BankApplication
 {
     internal class BankingAccount : BankAccount
     {
