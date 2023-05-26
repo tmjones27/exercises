@@ -1,4 +1,3 @@
-﻿//Tiani Jones - BIS345 
 //Create an order form that allows bags to be purchased. Display is a Windows dialog msg box showing the total, selection, quantity, and shipping charge. 
 using System;
 using System.Collections.Generic;
